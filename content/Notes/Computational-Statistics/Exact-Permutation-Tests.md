@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Exact Permutation Tests
+title: Exact Permutation Tests
 draft: false
 tags:
   - component
